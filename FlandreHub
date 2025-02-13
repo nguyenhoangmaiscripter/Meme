@@ -24,7 +24,7 @@ if not success then
     return
 end
 
-local win = DiscordLib:Window("]⭐️Flandre Hub Premium⭐️] [Ngọc Mai xinh gái]")
+local win = DiscordLib:Window("]⭐️Flandre Hub Premium⭐️][Ngọc Mai xinh gái]")
 
 ------------------------------
 -- Server: ⭐️Meme Adventure⭐️
